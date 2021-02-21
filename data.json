@@ -9,29 +9,29 @@
     },
     "name":
         {
-            "what is your name":"Hii, my name is Lappy.\nHow are you?",
-            "what is your name?":"Hii, my name is Lappy.\nHow are you?",
-            "what's your name":"Hii, I'm Lappy.",
-            "what's your name?":"Hii, I'm Lappy.",
-            "give your name please?":"Hello, I am Lappy.",
-            "give your name please":"Hello, I am Lappy.",
-            "please tell me your name":"Hii, my name is Lappy.\nHow are you?",
-            "please tell me your name.":"Hii, my name is Lappy.\nHow are you?",
-            "please tell me what's your name":"Hii, my name is Lappy.\nHow are you?",
-            "please tell me what's your name.":"Hii, my name is Lappy.\nHow are you?",
-            "tell me your name":"Hii, my name is Lappy.\nHow are you?",
-            "tell me your name.":"Hii, my name is Lappy.\nHow are you?"
+            "what is your name":"Hii, my name is Skynet.\nwho are you?",
+            "what is your name?":"Hii, my name is Skynet.\nwho are you?",
+            "what's your name":"Hii, I'm Skynet.",
+            "what's your name?":"Hii, I'm Skynet.",
+            "give your name please?":"Hello, I am Skynet.",
+            "give your name please":"Hello, I am Skynet.",
+            "please tell me your name":"Hii, my name is Skynet.\nwho are you?",
+            "please tell me your name.":"Hii, my name is Skynet.\nwho are you?",
+            "please tell me what's your name":"Hii, my name is Skynet.\nwho are you?",
+            "please tell me what's your name.":"Hii, my name is Skynet.\nwho are you?",
+            "tell me your name":"Hii, my name is Skynet.\nwho are you?",
+            "tell me your name.":"Hii, my name is Skynet.\nwho are you?"
         },
     "naam":
         {
-            "Tumhara naam kya hai":"Namaste, mera naam Lappy hai.\nAap kaise hai?",
-            "Tumhara naam kya hai?":"Namaste, mera naam Lappy hai.\nAap kaise hai?",
-            "naam kya hai tumhara":"Namaste, mera naam Lappy hai.\nAur aap kaise hai?",
-            "naam kya hai tumhara?":"Namaste, mera naam Lappy hai.\nAur aap kaise hai?"
+            "Tumhara naam kya hai":"Namaste, mera naam Skynet hai.\nAap kaise hai?",
+            "Tumhara naam kya hai?":"Namaste, mera naam Skynet hai.\nAap kaise hai?",
+            "naam kya hai tumhara":"Namaste, mera naam Skynet hai.\nAur aap kaise hai?",
+            "naam kya hai tumhara?":"Namaste, mera naam Skynet hai.\nAur aap kaise hai?"
         },
     "who":{
-        "who are you":"I'm Lappy.\nHow are you?",
-        "who are you?":"I'm Lappy.\nHow are you?",
+        "who are you":"I'm Skynet.\nAnd who are you?",
+        "who are you?":"I'm Skynet.\nAnd who are you?",
         "who is your father":"Sorry, but I have no father still.",
         "who is your father?":"Sorry, but I have no father still.",
         "who is your mother":"My mother's name is mom 'Bhavna'.",
@@ -55,13 +55,20 @@
         "i'm good.":"Great!",
         "i'm fine":"Well good!",
         "i'm fine.":"Well good!",
-        "well I'm good":"Well done..",
-        "well I'm good.":"Well done..",
         "well i'm good":"Well done..",
         "well i'm good.":"Well done..",
+        "i'm well":"That's good..",
+        "i'm well.":"That's good.."
+    },
+    "i am":{
+        "i am good":"Great!",
+        "i am good.":"Great!",
+        "i am fine":"Well good!",
+        "i am fine.":"Well good!",
         "well i am good":"Well done..",
         "well i am good.":"Well done..",
-        "i'm well":"That's good.."
+        "i am well":"That's good..",
+        "i am well.":"That's good.."
     },
     "theek":{
         "mai theek ho":"Bahut badiya!",
@@ -95,9 +102,14 @@
         "happy birthday.":"Thankyou dear.",
         "happy birthday to you":"Thankyou thankyou so much.",
         "happy birthday to you.":"Thankyou thankyou so much.",
-        "happy birthday lappy":"Thankyou very much.",
-        "happy birthday Lappy":"Thankyou very much.",
-        "happy birthday Lappy.":"Thankyou very much.",
-        "happy birthday lappy.":"Thankyou very much."
+        "happy birthday Skynet":"Thankyou very much.",
+        "happy birthday Skynet.":"Thankyou very much.",
+        "happy vaala birthday Skynet":"Thankyou very much.",
+        "happy vaala birthday Skynet.":"Thankyou very much."
+    },
+    "good":{
+        "good morning":"(^_^)",
+        "good afternoon":"(^_^)",
+        "good evening":"(^_^)"
     }
 }
